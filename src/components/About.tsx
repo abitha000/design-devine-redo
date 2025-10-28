@@ -27,7 +27,7 @@ const About = () => {
           <div className="relative">
             <div className="w-full h-64 sm:h-80 md:h-96 bg-gradient-to-br from-accent to-secondary rounded-3xl flex items-center justify-center animate-float overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="https://ibb.co/7t0PmfX4" 
                 alt="Natural Health Products"
                 className="w-full h-full object-cover rounded-3xl"
                 onError={(e) => {
